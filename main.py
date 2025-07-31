@@ -22,7 +22,7 @@ def bot_loop(max_minutes):
                 break
 
             verify_images_folder('imgs/story')
-            time.sleep(3)
+            time.sleep(2)
     except Exception as e:
         print(f"🛑 Program stopped: {e}")
 

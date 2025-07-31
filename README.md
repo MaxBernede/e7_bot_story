@@ -12,3 +12,4 @@ just run the main.py
 * The bot use your leaves, but if you don't have, it's going to use your skystones, so take care about it
 * It might get stuck if you are full with gear/artefacts/heroes
 * This is taking control of the mouse, so sadly it's not possible to do anything at the same time and it can be annoying to stop. I usually do my bot without but now with security in the apps, I didn't manage to make it click without using the mouse
+* If you think the bot is too slow, you can change the  time.sleep(2) but then it can be annoying to close
