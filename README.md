@@ -2,6 +2,8 @@
 
 Hi! I just realized that I was bored doing manually the story of E7, so I decided to create a bot that does it. Please let me know if you want me to improve it or if there is bug in the program, feel free to improve it
 
+![Screenshot](imgs/screen.png)
+
 #  How to run it ?
 Ps : This is for windows, if you use linux you probably can just fix it for yourself :)
 You need to have a window called "Epic Seven", I didn't try but I think it only works with the Strove app 
